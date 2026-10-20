@@ -1,0 +1,1 @@
+function hearts(n=18){for(let i=0;i<n;i++){let el=document.createElement('span');el.className='heart';el.textContent=['💗','✨','🌸','💜'][Math.floor(Math.random()*4)];el.style.left=Math.random()*100+'vw';el.style.bottom='-35px';el.style.animationDelay=Math.random()*1.5+'s';document.body.appendChild(el);setTimeout(()=>el.remove(),4600)}}
