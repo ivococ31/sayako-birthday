@@ -1,7 +1,1 @@
-# Sayako Birthday — Four-page Story
-
-Upload **all files inside this folder** to the root of a public GitHub repository named `sayako-birthday` (do not upload only the ZIP). Then open Settings → Pages → Deploy from a branch → `main` / `/(root)` → Save.
-
-Files: `index.html`, `gift.html`, `letter.html`, `cake.html`, `style.css`, `effects.js`.
-
-Open `index.html` locally to preview. The font uses Google Fonts, but the website works without it.
+Sayako Birthday 4-page interactive website. Upload index.html, gift.html, letter.html, cake.html, style.css, script.js, and assets/ to repository root. GitHub Settings > Pages > Deploy from branch > main / (root). Background illustrations are decorative; buttons and messages are functional HTML.
